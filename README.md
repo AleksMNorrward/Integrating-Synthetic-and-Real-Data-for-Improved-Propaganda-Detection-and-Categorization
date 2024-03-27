@@ -8,7 +8,7 @@ Unfortunately, we of course must have a very good clean data to start with, so t
 
 **mingpt.ipynb** is a file where the first version of the miniature GPT from [2] is done for a dataset from Kaggle [1]. Unfortunately, the data still needs to be thoroughly cleaned from such text garbage as links to sites and emojies, because as seen in this example it incredibly degrades results. Obvisously, such results cannot be used in further classification, this generated data will dirty the classification process.
 
-**mingpt.ipynb** is a file 
+**propaganda-text-classification.ipynb** is a file where the text classification model has been done. It has fairly good results, but there should be work done on handling some overfitting.
 
 ## List of Used Resources
 
